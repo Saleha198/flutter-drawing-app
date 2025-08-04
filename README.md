@@ -30,6 +30,20 @@ It features an attractive animated UI, category-based drawing books, and a creat
 ---
 
 ## 🚀 Getting Started
+## 🖼️ Screenshots
+
+### 🏠 Dashboard (Home Page)
+![Dashboard](screenshots/dashboard.jpeg)
+
+### 📚 Drawing Books Selection
+![Books](screenshots/books.jpeg)
+
+### 🖌️ Drawing Pages
+![Pages](screenshots/pages.jpeg)
+
+### 🎨 Drawing Canvas
+![Drawing](screenshots/drawing.jpeg)
+
 
 ### Prerequisites:
 - Flutter SDK
